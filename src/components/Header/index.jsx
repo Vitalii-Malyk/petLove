@@ -1,11 +1,11 @@
 import { Logo } from "components/Logo/Logo";
 import { HeaderWrapper, Link, Navigation } from "./Header.styled";
 import { Container } from "components/Container/Container";
-import { Nav } from "./Nav/Nav";
+import { Nav } from "./Nav";
 import { AuthNav } from "./AuthNav/AuthNav";
 import { useSelector } from "react-redux";
 import { selectIsLoggedIn } from "../../redux/auth/authSelectors";
-import { UserNav } from "./UserNav/UserNav";
+import { UserNav } from "./UserNav/";
 
 export const Header = () => {
   const isLoggedIn = useSelector(selectIsLoggedIn);
