@@ -1,5 +1,5 @@
-import { Container } from "components/Container/Container";
-import { Hero } from "components/Hero/Hero";
+import { Container } from "../../components/Container";
+import { Hero } from "../../components/Hero";
 
 const Home = () => {
   return (

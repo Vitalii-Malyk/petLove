@@ -1,4 +1,4 @@
-import { Button } from "components/Button/Button";
+import { Button } from "../../Button";
 import { useDispatch, useSelector } from "react-redux";
 import sprite from "../../../helpers/icons/sprite.svg";
 import {
