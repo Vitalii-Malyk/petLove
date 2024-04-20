@@ -1,4 +1,4 @@
-import heroImg from "../../images/heroImg.jpg";
+import heroImg from "../../helpers/images/heroImg.jpg";
 import {
   Accent,
   HeroWrapper,

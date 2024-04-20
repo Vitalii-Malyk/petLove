@@ -1,9 +1,9 @@
 import { useState } from "react";
-import { UserBar } from "../UserBar/";
+import { UserBar } from "../UserBar";
 import { UserNavWrapper } from "./UserNav.styled";
-import { BasicModalWindow } from "components/Modal/BasicModalWindow";
-import { ModalApproveAction } from "components/Modal/ModalApproveAction/ModalApproveAction";
-import { Button } from "components/Button/Button";
+import { BasicModalWindow } from "../../Modal/BasicModal";
+import { ModalApproveAction } from "../../Modal/ModalApproveAction";
+import { Button } from "../../Button";
 
 export const UserNav = () => {
   const [modal, setModal] = useState(false);
