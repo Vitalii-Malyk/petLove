@@ -4,7 +4,7 @@ import {
   ADD_FAVORITES_NOTICES_URL,
   BASE_URL,
   NOTICES_URL,
-} from "constants/api";
+} from "../../helpers/api";
 
 axios.defaults.baseURL = `${BASE_URL}`;
 

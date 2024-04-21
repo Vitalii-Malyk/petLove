@@ -8,7 +8,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { useEffect, useState } from "react";
 import { fetchNews } from "../../redux/news/newsOperations";
 import { selectNews, selectTotalPages } from "../../redux/news/newsSelectors";
-import { topScroll } from "utils/topScroll";
+import { topScroll } from "../../helpers/functions/topScroll";
 
 const News = () => {
   const [selectedPage, setSelectedPage] = useState(1);

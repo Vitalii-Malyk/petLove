@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { theme } from "constants/theme";
+import { theme } from "../../helpers/theme";
 
 export const HeroWrapper = styled.div``;
 

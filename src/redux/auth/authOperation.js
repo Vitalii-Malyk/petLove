@@ -7,7 +7,7 @@ import {
   LOGIN_URL,
   LOGOT_URL,
   REGISTER_URL,
-} from "constants/api";
+} from "../../helpers/api";
 
 axios.defaults.baseURL = BASE_URL;
 

@@ -1,4 +1,4 @@
-import { workingDays } from "utils/workingDays";
+import { workingDays } from "../../helpers/functions/workingDays";
 import {
   Description,
   FriendsItemWrapper,

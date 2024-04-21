@@ -11,7 +11,7 @@ import {
 } from "../../redux/notices/noticesSelectors";
 import { useEffect, useState } from "react";
 import { fetchNotices } from "../../redux/notices/noticesOperations";
-import { topScroll } from "utils/topScroll";
+import { topScroll } from "../../helpers/functions/topScroll";
 
 const Notices = () => {
   const [selectedPage, setSelectedPage] = useState(1);
