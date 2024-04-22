@@ -1,9 +1,9 @@
-import{u as o,t as r,j as e,s,C as a}from"./index-l9NxtX84.js";import{P as c}from"./index-Cb1ELDTe.js";import{a as i,F as d,b as p}from"./formik.esm-BGBxsEyj.js";import"./hoist-non-react-statics.cjs-1kEXkMD-.js";const x=o.section`
+import{u as o,t as r,j as e,s,C as a}from"./index-Y9_HngNO.js";import{P as c}from"./index-CKtldw9x.js";import{a as i,F as d,b as p}from"./formik.esm-B9ghsEPK.js";import"./hoist-non-react-statics.cjs-CNjmKvmM.js";const x=o.section`
   margin-bottom: 32px;
 `,h=o.div`
   display: flex;
   gap: 32px;
-`,g="/assets/addPetImg-DOXZPNl4.png",b=o.div`
+`,g="/petLove/assets/addPetImg-DOXZPNl4.png",b=o.div`
   padding: 60px 80px;
   border-radius: 60px;
   background-color: ${r.colors.white};
@@ -86,9 +86,9 @@ import{u as o,t as r,j as e,s,C as a}from"./index-l9NxtX84.js";import{P as c}fro
   height: 24px;
   stroke: ${r.colors.blue};
   fill: transparent;
-`,$=o.svg`
+`,v=o.svg`
   width: 24px;
   height: 24px;
   stroke: ${r.colors.accent};
   fill: transparent;
-`,v=()=>e.jsxs(f,{children:[e.jsx(n,{backgroundcolor:"#eb1035",bordercolor:"#892d3e",children:e.jsxs("label",{children:[e.jsx(i,{type:"radio",name:"sex",value:"female"}),e.jsx("span",{children:e.jsx(y,{children:e.jsx("use",{href:s+"#icon-female"})})})]})}),e.jsx(n,{backgroundcolor:"rgba(84, 173, 255, 0.1)",bordercolor:"rgba(49, 87, 125, 0.3)",children:e.jsxs("label",{children:[e.jsx(i,{type:"radio",name:"sex",value:"male"}),e.jsx("span",{children:e.jsx(k,{children:e.jsx("use",{href:s+"#icon-male"})})})]})}),e.jsx(n,{backgroundcolor:"#FFF4DF",bordercolor:"#e1c184",children:e.jsxs("label",{children:[e.jsx(i,{type:"radio",name:"sex",value:"mixed"}),e.jsx("span",{children:e.jsx($,{children:e.jsx("use",{href:s+"#icon-multiple"})})})]})})]}),w={sex:""},F=()=>{const t=l=>{console.log(l)};return e.jsxs(b,{children:[e.jsxs(m,{children:[e.jsx(u,{children:"Add my pet /"}),e.jsx(j,{children:"Personal details"})]}),e.jsx(d,{initialValues:w,onSubmit:t,children:e.jsx(p,{children:e.jsx(v,{})})})]})},z=()=>e.jsx(x,{children:e.jsx(a,{children:e.jsxs(h,{children:[e.jsx(c,{img:g}),e.jsx(F,{})]})})});export{z as default};
+`,$=()=>e.jsxs(f,{children:[e.jsx(n,{backgroundcolor:"#eb1035",bordercolor:"#892d3e",children:e.jsxs("label",{children:[e.jsx(i,{type:"radio",name:"sex",value:"female"}),e.jsx("span",{children:e.jsx(y,{children:e.jsx("use",{href:s+"#icon-female"})})})]})}),e.jsx(n,{backgroundcolor:"rgba(84, 173, 255, 0.1)",bordercolor:"rgba(49, 87, 125, 0.3)",children:e.jsxs("label",{children:[e.jsx(i,{type:"radio",name:"sex",value:"male"}),e.jsx("span",{children:e.jsx(k,{children:e.jsx("use",{href:s+"#icon-male"})})})]})}),e.jsx(n,{backgroundcolor:"#FFF4DF",bordercolor:"#e1c184",children:e.jsxs("label",{children:[e.jsx(i,{type:"radio",name:"sex",value:"mixed"}),e.jsx("span",{children:e.jsx(v,{children:e.jsx("use",{href:s+"#icon-multiple"})})})]})})]}),w={sex:""},F=()=>{const t=l=>{console.log(l)};return e.jsxs(b,{children:[e.jsxs(m,{children:[e.jsx(u,{children:"Add my pet /"}),e.jsx(j,{children:"Personal details"})]}),e.jsx(d,{initialValues:w,onSubmit:t,children:e.jsx(p,{children:e.jsx($,{})})})]})},z=()=>e.jsx(x,{children:e.jsx(a,{children:e.jsxs(h,{children:[e.jsx(c,{img:g}),e.jsx(F,{})]})})});export{z as default};

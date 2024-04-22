@@ -1,4 +1,4 @@
-import{u as o,t,j as e}from"./index-l9NxtX84.js";const a=o.div`
+import{u as o,t,j as e}from"./index-Y9_HngNO.js";const a=o.div`
   position: absolute;
   left: 61px;
   bottom: 97px;
@@ -46,7 +46,7 @@ import{u as o,t,j as e}from"./index-l9NxtX84.js";const a=o.div`
   line-height: 1.16667;
   letter-spacing: -0.24px;
   color: ${t.colors.darkGrey};
-`,m=({pet:i})=>{const{avatar:n,name:s,birthday:r,description:c}=i;return e.jsxs(a,{children:[e.jsx(l,{children:e.jsx(p,{src:n,alt:"Avatar"})}),e.jsxs("div",{children:[e.jsxs(x,{children:[e.jsx(d,{children:s}),e.jsxs(g,{children:["Birthday: ",e.jsx(h,{children:r})]})]}),e.jsx(f,{children:c})]})]})},u="/assets/rectangle-CEqwXGS_.png",b=o.div`
+`,m=({pet:i})=>{const{avatar:n,name:s,birthday:r,description:c}=i;return e.jsxs(a,{children:[e.jsx(l,{children:e.jsx(p,{src:n,alt:"Avatar"})}),e.jsxs("div",{children:[e.jsxs(x,{children:[e.jsx(d,{children:s}),e.jsxs(g,{children:["Birthday: ",e.jsx(h,{children:r})]})]}),e.jsx(f,{children:c})]})]})},u="/petLove/assets/rectangle-CEqwXGS_.png",b=o.div`
   position: relative;
   background-color: ${t.colors.accent};
   background-image: url(${u});
@@ -59,4 +59,4 @@ import{u as o,t,j as e}from"./index-l9NxtX84.js";const a=o.div`
   position: absolute;
   bottom: 0;
   left: 30px;
-`,k=({img:i,pet:n=null})=>e.jsxs(b,{children:[e.jsx(j,{src:i,alt:"Pet"}),n&&e.jsx(m,{pet:n})]});export{k as P};
+`,v=({img:i,pet:n=null})=>e.jsxs(b,{children:[e.jsx(j,{src:i,alt:"Pet"}),n&&e.jsx(m,{pet:n})]});export{v as P};

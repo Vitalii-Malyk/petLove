@@ -1,4 +1,4 @@
-import{u as t,t as e,N as n,j as o,C as r}from"./index-l9NxtX84.js";const s=t.section`
+import{u as t,t as e,N as n,j as o,C as r}from"./index-Y9_HngNO.js";const s=t.section`
   padding-bottom: 32px;
 `,c=t.div`
   background-color: ${e.colors.accent};
@@ -60,4 +60,4 @@ import{u as t,t as e,N as n,j as o,C as r}from"./index-l9NxtX84.js";const s=t.se
   letter-spacing: -0.72px;
   color: ${e.colors.white};
   margin-bottom: 20px;
-`,g="/assets/notFoundImg-C0g6gFVs.png",p=()=>o.jsxs(o.Fragment,{children:[o.jsxs(d,{children:[o.jsx(i,{children:"4"}),o.jsx(a,{children:o.jsx(h,{src:g,alt:"The Cat"})}),o.jsx(i,{children:"4"})]}),o.jsx(x,{children:"Ooops! This page not found :("}),o.jsx(l,{to:"/home",children:"To home page"})]}),f=()=>o.jsx(s,{children:o.jsx(r,{children:o.jsx(c,{children:o.jsx(p,{})})})});export{f as default};
+`,g="/petLove/assets/notFoundImg-C0g6gFVs.png",p=()=>o.jsxs(o.Fragment,{children:[o.jsxs(d,{children:[o.jsx(i,{children:"4"}),o.jsx(a,{children:o.jsx(h,{src:g,alt:"The Cat"})}),o.jsx(i,{children:"4"})]}),o.jsx(x,{children:"Ooops! This page not found :("}),o.jsx(l,{to:"/home",children:"To home page"})]}),f=()=>o.jsx(s,{children:o.jsx(r,{children:o.jsx(c,{children:o.jsx(p,{})})})});export{f as default};
