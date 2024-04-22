@@ -1,4 +1,4 @@
-import{u as t,t as e,N as n,j as o,C as r}from"./index-Y9_HngNO.js";const s=t.section`
+import{u as t,t as e,N as n,j as o,C as r}from"./index-iJ6o1YNz.js";const s=t.section`
   padding-bottom: 32px;
 `,c=t.div`
   background-color: ${e.colors.accent};
